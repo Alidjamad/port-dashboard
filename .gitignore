@@ -1,0 +1,9 @@
+# Environnement Python (se recrée avec requirements.txt)
+.venv/
+
+# Secrets : clés API (NE JAMAIS PUBLIER)
+.env
+.streamlit/secrets.toml
+
+# Fichiers temporaires Python
+__pycache__/
